@@ -12,7 +12,7 @@ class Main {
   System.out.println("Enter x");
   double x = Input.readDouble();
   double y = 0;
-  double result = Math.pow("x,7")
+  double result = Math.pow("x,7");
 
 /*  
     Challenge 2:
@@ -30,7 +30,7 @@ class Main {
 
 
 */
-System.out.println("Enter t and r")
+System.out.println("Enter t and r");
 double t = Input.readDouble();
 double r = Input.readDouble();
 double s = 0;
@@ -43,7 +43,7 @@ double result = Math.pow(t,5)* Math.pow((r+2),4);
     
 */
 
-System.out.println("Enter A and B")
+System.out.println("Enter A and B");
 double A = Input.readDouble();
 double B = Input.readDouble();
 double C = 0;
@@ -55,7 +55,7 @@ double result = Math.sqrt(A+B);
     
 */
 
-System.out.println("Enter x1 and x2 and y2 and y1")
+System.out.println("Enter x1 and x2 and y2 and y1");
 double x1 = Input.readDouble();
 double x2 = Input.readDouble();
 double y1 = Input.readDouble();
@@ -81,7 +81,7 @@ double result = Math.sin*(deg);
     
 */
 
-System.out.println("Enter m and n")
+System.out.println("Enter m and n");
 double x1 = Input.readDouble();
 double x2 = Input.readDouble();
 double k = 0;
