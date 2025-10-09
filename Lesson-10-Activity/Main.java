@@ -57,6 +57,6 @@ double shippingCost(int weight){
       return 10.00;
     }
     else (weight>25){
-      return 10.00+.02(weight)}
+      return 10.00+.02 * (weight)}
 }
 }
